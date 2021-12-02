@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/RS03AXPS-SF03A-2D-PHSENA301-streamed-phsen_data_record
 data_stream: RS03AXPS-SF03A-2D-PHSENA301-streamed-phsen_data_record
-end_date: '2021-10-05T13:11:09.078Z'
-last_updated: '2021-10-06T01:21:37.794343'
+end_date: '2021-12-01T20:10:11.273Z'
+last_updated: '2021-12-02T07:37:36.763854Z'
 start_date: '2014-10-07T22:00:00.288Z'
-status: success
+status: pending
